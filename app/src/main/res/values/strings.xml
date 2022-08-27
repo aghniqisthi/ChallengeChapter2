@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge Chapter 2</string>
+    <string name="headerTitle">Tip Time</string>
+    <string name="cos">Cost of Service</string>
+    <string name="question">How was the service?</string>
+    <string name="amazing">Amazing (20%)</string>
+    <string name="good">Good (18%)</string>
+    <string name="ok">OK (15%)</string>
+    <string name="roundTip">Round up tip?</string>
+    <string name="calc">Calculate</string>
+    <string name="amount">Tip Amount</string>
+    <string name="imgDesc">Money Cartoon Illustration</string>
+</resources>
